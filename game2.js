@@ -1,3 +1,3 @@
-$(".btn").on("click", function(){
+$(".btn").on("tap", function(){
   $(this).hide();
 });
