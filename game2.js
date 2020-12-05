@@ -27,7 +27,7 @@ $(".btn").click(function(){
 
 
 
-$("body").tap(function(){
+$("h1").tap(function(){
 if(!started){
   nextSequence();
   started = true;
